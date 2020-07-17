@@ -16,8 +16,10 @@ const products = [
        
         allName.push(values[0]);  
         allQuantity.push(values[2])
-
+    
     }
+    
+  
        if (prop === 'name') {
            return allName;
        };
